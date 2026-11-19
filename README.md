@@ -11,12 +11,23 @@ Berikut adalah contoh tampilan antarmuka katalog produk:
 
 ### 1. Tampilan Form & Katalog
 <p align="center">
-  <img src="SS/Katalog-produk.png" alt="Form Input dan Kartu Katalog Produk" width="400">
+  <img src="SS/TampilanAwal.png" alt="Form Input dan Kartu Katalog Produk" width="400">
+</p>
+<p align="center">
+  <img src="SS/TampilanDiisi.png" alt="Form Input dan Kartu Katalog Produk" width="400">
 </p>
 
-### 2. Konfirmasi Hapus Produk
+### 2. Tampilan Edit Katalog
 <p align="center">
-  <img src="SS/Konfirmasi-hapus.png" alt="Dialog Konfirmasi Hapus Produk" width="400">
+  <img src="SS/TampilanEdit.png" alt="Form Input dan Kartu Katalog Produk" width="400">
+</p>
+
+### 3. Konfirmasi Hapus Produk
+<p align="center">
+  <img src="SS/TampilanDelete1.png" alt="Dialog Konfirmasi Hapus Produk" width="400">
+</p>
+<p align="center">
+  <img src="SS/TampilanDelete2.png" alt="Dialog Konfirmasi Hapus Produk" width="400">
 </p>
 
 ## Fitur Utama
